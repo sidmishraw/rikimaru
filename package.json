@@ -2,10 +2,10 @@
   "name": "rikimaru",
   "displayName": "rikimaru",
   "description": "Code searcher for `cosmos` from within VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "sidmishraw",
   "engines": {
-    "vscode": "^1.18.0"
+    "vscode": "^1.23.0"
   },
   "categories": ["Other"],
   "activationEvents": ["onCommand:rikimaru.search"],
