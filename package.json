@@ -7,6 +7,9 @@
   "engines": {
     "vscode": "^1.23.0"
   },
+  "repository": {
+    "url": "https://github.com/sidmishraw/rikimaru"
+  },
   "categories": ["Other"],
   "activationEvents": ["onCommand:rikimaru.search"],
   "main": "./extension",
